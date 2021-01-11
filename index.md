@@ -23,52 +23,52 @@ A website was designed to allow access to the project during COVID-19-times. It 
 The web-based mobile detection system was a more complex part of the project. It had to be thoroughly tested and developed. To detect the knots, we used the Teachable Machine image classification developed by Google. Through this machine learning model each knot was classified and a question was assigned to it. GPT-3 by OpenAI was used to generate responses which the user can access through the mobile detection app. The entire app was built on p5.js, a popular JavaScript library. (Fig. 9)
 
 ## Supporting Images
-![Fig 01]('https://github.com/knot-a-conversation/about/raw/gh-pages/assets/01_KAC_concept_quipur.jpg')
+![](https://github.com/knot-a-conversation/about/raw/gh-pages/assets/01_KAC_concept_quipur.jpg)
 Fig. 01: Left: taken from the Ethnological Museum of Berlin. Right: Facsimile of a drawing by Felipe Guaman Poma from his 'El Primer Nueva Coronica y Buen Gobierno'.It is the only extant 'Codex' from Peru that shows drawings of 16thC Peruvian life.- The 'Keeper of the Quipu' or 'Quipucamayoc'. 
 Country of Origin: Peru Culture: Inca. 
 
-![Fig 02]('https://github.com/knot-a-conversation/about/raw/gh-pages/assets/02_KAC_concept_knot_structure.jpg')
+![](https://github.com/knot-a-conversation/about/raw/gh-pages/assets/02_KAC_concept_knot_structure.jpg)
 Fig. 02: Moodboard inspiration. Left top: drawing from Santiago Ramón y Cajal (Cajal's Neuronal Forest: Science and Art). Left bottom: Khipu with Summary Cords, Inka, 1450–1534 CE, Dumbarton Oaks collection. Center top: Time Ball (mnemonic device) Canada, created before 1920, National Museum of the American Indian, Smithsonian Institution. Center middle: The hands of Rusten Hogness, Donna’s partner, learning Ma’ii Ats’áá’ Yílwoí, in English “Coyotes Running Opposite Ways.” Coyote is the trickster who constantly scatters the dust of disorder into the orderly star patterns made by the Fire God, setting up the non-innocent world-making performances of disorder and order that shape the lives of terran critters (Haraway, 2016). Center bottom: The Constellations drawings are a series of sketches by Pablo Picasso drawn on sixteen pages of a notebook in 1924. Right top: drawing from Santiago Ramón y Cajal (Cajal's Neuronal Forest: Science and Art). Right bottom: The Neural Network Zoo, The Asimov Institute.
 
-![Fig 03]('https://github.com/knot-a-conversation/about/raw/gh-pages/assets/03_KAC_concept_drawing.jpg')
+![](https://github.com/knot-a-conversation/about/raw/gh-pages/assets/03_KAC_concept_drawing.jpg)
 Fig. 03: Concept drawing, first ideas for the creation of the prototype.
 
-![Fig 04]('https://github.com/knot-a-conversation/about/raw/gh-pages/assets/04_KAC_concept_miroboard.JPG')
+![](https://github.com/knot-a-conversation/about/raw/gh-pages/assets/04_KAC_concept_miroboard.JPG)
 Fig. 04: Collection of the group’s ideas, questions, visual references and inspirations on Miro whiteboard. 
 
-![Fig 05]('https://github.com/knot-a-conversation/about/raw/gh-pages/assets/05_KAC_discussing_knots.jpeg')
+![](https://github.com/knot-a-conversation/about/raw/gh-pages/assets/05_KAC_discussing_knots.jpeg)
 Fig. 05: An initial meeting of the team discussing and understanding the possibilities of using 3D knots.
 
-![Fig 06]('https://github.com/knot-a-conversation/about/raw/gh-pages/assets/06_KAC_3dmodel_WIP.png')
+![](https://github.com/knot-a-conversation/about/raw/gh-pages/assets/06_KAC_3dmodel_WIP.png)
 Fig. 06: Working on 3d model – with inspiration from human neurons, neural network schematics and mathematical knots, a sculpture was developed in the 3D software Blender. 
 
-![Fig 07]('https://github.com/knot-a-conversation/about/raw/gh-pages/assets/07_KAC_machine-training.jpg')
+![](https://github.com/knot-a-conversation/about/raw/gh-pages/assets/07_KAC_machine-training.jpg)
 Fig. 07: Machine training – using Google’s Teachable Machine to classify the various knots in the sculpture. These will be used for the detection model on the mobile app.
 
-![Fig 08]('https://github.com/knot-a-conversation/about/raw/gh-pages/assets/08_KAC_website.jpg')
+![](https://github.com/knot-a-conversation/about/raw/gh-pages/assets/08_KAC_website.jpg)
 Fig. 08: Website development – hosting the virtual sculpture as a web app. This uses 3D frameworks “A-Frame” and “threejs”. 
 
-![Fig 09]('https://github.com/knot-a-conversation/about/raw/gh-pages/assets/09_KAC_detection_app.jpg')
+![](https://github.com/knot-a-conversation/about/raw/gh-pages/assets/09_KAC_detection_app.jpg)
 Fig. 09: Detection app
 Using the image classification model from Teachable Machine the mobile web app is able to recognise the various knots in the sculpture. Each knot represents a question devised by the team and the machine gendered answers based on GPT-3 Machine learning model
 
 ## Bibliography, references and tech stack            
-- The Nooscope Manifested: https://nooscope.ai/
-- Lisa Nakamura – Indigenous Circuits: https://lnakamur.files.wordpress.com/2011/01/indigenous-circuits-nakamura-aq.pdf
-- Neural Networks Architecture: https://www.asimovinstitute.org/neural-network-zoo/                    
-- Making Kin with the Machines: https://jods.mitpress.mit.edu/pub/lewis-arista-pechawis-kite/release/1
-- Neuronal Forest: https://www.humanbrainproject.eu/en/follow-hbp/news/cajal-s-neuronal-forest-new-book-by-javier-defelipe/
-- Towards a poetics of artificial superintelligence https://medium.com/after-us/towards-a-poetics-of-artificial-superintelligence-ebff11d2d249
+- ![The Nooscope Manifested](https://nooscope.ai/)
+- ![Lisa Nakamura – Indigenous Circuits](https://lnakamur.files.wordpress.com/2011/01/indigenous-circuits-nakamura-aq.pdf)
+- ![Neural Networks Architecture](https://www.asimovinstitute.org/neural-network-zoo/)                    
+- ![Making Kin with the Machines](https://jods.mitpress.mit.edu/pub/lewis-arista-pechawis-kite/release/1)
+- ![Neuronal Forest](https://www.humanbrainproject.eu/en/follow-hbp/news/cajal-s-neuronal-forest-new-book-by-javier-defelipe/)
+- ![Towards a poetics of artificial superintelligence](https://medium.com/after-us/towards-a-poetics-of-artificial-superintelligence-ebff11d2d249)
 
 ### Tech stack 
 #### Website
-- aframe.io – a web framework for VR experiences
-- Blender – open source 3D modelling software 
+- ![aframe.io](https://aframe.io) – a web framework for VR experiences
+- ![Blender](https://blender.org) – open source 3D modelling software 
 
 #### Mobile web-based detection app
-- Teachable machine – a GUI based machine learning tool for image classification
-- p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else
-- GPT-3 – Generative Pre-trained Transformer 3 is an autoregressive language model that uses deep learning to produce human-like text. It is the third-generation language prediction model in the GPT-n series created by OpenAI
+- ![Teachable machine](https://teachablemachine.withgoogle.com/) – a GUI based machine learning tool for image classification
+- ![p5.js](https://p5js.org/) is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else
+- ![GPT-3](https://github.com/openai/gpt-3) – Generative Pre-trained Transformer 3 is an autoregressive language model that uses deep learning to produce human-like text. It is the third-generation language prediction model in the GPT-n series created by OpenAI
 
 #### GitHub repository
  https://github.com/knot-a-conversation
