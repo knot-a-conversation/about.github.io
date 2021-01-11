@@ -53,22 +53,22 @@ Country of Origin: Peru Culture: Inca.
 Using the image classification model from Teachable Machine the mobile web app is able to recognise the various knots in the sculpture. Each knot represents a question devised by the team and the machine gendered answers based on GPT-3 Machine learning model
 
 ## Bibliography, references and tech stack            
-- ![The Nooscope Manifested](https://nooscope.ai/)
-- ![Lisa Nakamura – Indigenous Circuits](https://lnakamur.files.wordpress.com/2011/01/indigenous-circuits-nakamura-aq.pdf)
-- ![Neural Networks Architecture](https://www.asimovinstitute.org/neural-network-zoo/)                    
-- ![Making Kin with the Machines](https://jods.mitpress.mit.edu/pub/lewis-arista-pechawis-kite/release/1)
-- ![Neuronal Forest](https://www.humanbrainproject.eu/en/follow-hbp/news/cajal-s-neuronal-forest-new-book-by-javier-defelipe/)
-- ![Towards a poetics of artificial superintelligence](https://medium.com/after-us/towards-a-poetics-of-artificial-superintelligence-ebff11d2d249)
+- [The Nooscope Manifested](https://nooscope.ai/)
+- [Lisa Nakamura – Indigenous Circuits](https://lnakamur.files.wordpress.com/2011/01/indigenous-circuits-nakamura-aq.pdf)
+- [Neural Networks Architecture](https://www.asimovinstitute.org/neural-network-zoo/)                    
+- [Making Kin with the Machines](https://jods.mitpress.mit.edu/pub/lewis-arista-pechawis-kite/release/1)
+- [Neuronal Forest](https://www.humanbrainproject.eu/en/follow-hbp/news/cajal-s-neuronal-forest-new-book-by-javier-defelipe/)
+- [Towards a poetics of artificial superintelligence](https://medium.com/after-us/towards-a-poetics-of-artificial-superintelligence-ebff11d2d249)
 
 ### Tech stack 
 #### Website
-- ![aframe.io](https://aframe.io) – a web framework for VR experiences
-- ![Blender](https://blender.org) – open source 3D modelling software 
+- [aframe.io](https://aframe.io) – a web framework for VR experiences
+- [Blender](https://blender.org) – open source 3D modelling software 
 
 #### Mobile web-based detection app
-- ![Teachable machine](https://teachablemachine.withgoogle.com/) – a GUI based machine learning tool for image classification
-- ![p5.js](https://p5js.org/) is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else
-- ![GPT-3](https://github.com/openai/gpt-3) – Generative Pre-trained Transformer 3 is an autoregressive language model that uses deep learning to produce human-like text. It is the third-generation language prediction model in the GPT-n series created by OpenAI
+- [Teachable machine](https://teachablemachine.withgoogle.com/) – a GUI based machine learning tool for image classification
+- [p5.js](https://p5js.org/) is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else
+- [GPT-3](https://github.com/openai/gpt-3) – Generative Pre-trained Transformer 3 is an autoregressive language model that uses deep learning to produce human-like text. It is the third-generation language prediction model in the GPT-n series created by OpenAI
 
 #### GitHub repository
  https://github.com/knot-a-conversation
