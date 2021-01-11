@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# K(not) a Conversation
+### A Neural Knotwork Prototype
 
-You can use the [editor on GitHub](https://github.com/knot-a-conversation/about.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Project Synopsis
+**K(not) a Conversation** is an installation exploring the concepts of artificial intelligence, creativity and labour. Inspired by ancient indigenous communication systems of Quipu knots, it instigates a communication and reflection process through the use of knots and AI systems. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Concept Note
+The installation exists in two ways, physically and virtually. It consists of a sculptural element, using knots and neurons as visual and conceptual references, a website and a web-based detection app to allow interaction with the sculpture. The piece is designed as part of an open process, demonstrating the proof-of-concept with a working prototype.  
 
-### Markdown
+Rooted in Nayeli Vega Vargas’ artistic research on knots as symbolic systems that can be used to communicate specific information, the prototype investigates concepts of creativity and labour in relation to artificial intelligence. By mixing modern and ancient communication technologies, a reflection process is engaged. Hereby, the knots function as information carriers that can be read by the AI. This method is inspired by Quipu, a knot-based technology to record information related to the organisation of the empire’s municipalities developed by the Inka people of the Andean region. The AI is trained to detect the given knots, decode the questions embedded by the artists and respond with answers from its own text prediction AI model. These questions revolve around creativity, autonomy, labour, behaviours, kinship and visibility. Just like in the topology of mathematical knots, which are used in this prototype, the machine-driven communication with itself is potentially endless. It leads to unexpected results that question our understanding and concepts of the human, the natural and the artificial. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+PROJECT LINK: bit.ly/knot-a-conversation
 
-```markdown
-Syntax highlighted code block
+## Process Notes
+The project is based on a collaborative process between creative technologist Ambika Joshi, material-textile designer Nayeli Vega Vargas and media artist Thomas Heidtmann. As part of the befantastic CoLab Fellowship, it combines their different professions, methodological approaches and technical skills to explore artistic and technological implications of artificial intelligence.
 
-# Header 1
-## Header 2
-### Header 3
+After the intense 14-day fellowship – which resulted in the roughly outlined project idea – a two-week-long realisation phase followed, during which the initial brainstorming was further extended and a prototype was built. After exploring conceptual directions and the visual language (Fig. 1–4), prototyping of the sculpture and website started.
 
-- Bulleted
-- List
+Drawing inspiration from the scientific illustrations of Santiago Ramón y Cajal (1852–1934) and Picasso’s Constellations drawings (1924), a prototype was developed. The knots, which are used for the prototype, were obtained from mathematical algorithms, converted to meshes and integrated into a neuronal structure with the help of the open source 3D software Blender (Fig. 5–6). 
 
-1. Numbered
-2. List
+A website was designed to allow access to the project during COVID-19-times. It contains a virtual representation of the sculpture that eventually will be physically installed in the future. The model was then imported in A-Frame, a HTML framework which allows easy access and development of 3D environments for web browsers. Once the website was successfully tested, it got refined and hosted on GitHub pages (Fig. 8). 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/knot-a-conversation/about.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The web-based mobile detection system was a more complex part of the project. It had to be thoroughly tested and developed. To detect the knots, we used the Teachable Machine image classification developed by Google. Through this machine learning model each knot was classified and a question was assigned to it. GPT-3 by OpenAI was used to generate responses which the user can access through the mobile detection app. The entire app was built on p5.js, a popular JavaScript library. (Fig. 9)
