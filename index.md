@@ -7,14 +7,14 @@
 ## Concept Note
 The installation exists in two ways, physically and virtually. It consists of a sculptural element, using knots and neurons as visual and conceptual references, a website and a web-based detection app to allow interaction with the sculpture. The piece is designed as part of an open process, demonstrating the proof-of-concept with a working prototype.  
 
-Rooted in Nayeli Vega Vargas’ artistic research on knots as symbolic systems that can be used to communicate specific information, the prototype investigates concepts of creativity and labour in relation to artificial intelligence. By mixing modern and ancient communication technologies, a reflection process is engaged. Hereby, the knots function as information carriers that can be read by the AI. This method is inspired by Quipu, a knot-based technology to record information related to the organisation of the empire’s municipalities developed by the Inka people of the Andean region. The AI is trained to detect the given knots, decode the questions embedded by the artists and respond with answers from its own text prediction AI model. These questions revolve around creativity, autonomy, labour, behaviours, kinship and visibility. Just like in the topology of mathematical knots, which are used in this prototype, the machine-driven communication with itself is potentially endless. It leads to unexpected results that question our understanding and concepts of the human, the natural and the artificial. 
+Rooted in Nayeli Vega Vargas’ artistic research on knots as symbolic systems that can be used to communicate specific information[^1], the prototype investigates concepts of creativity and labour in relation to artificial intelligence. By mixing modern and ancient communication technologies, a reflection process is engaged. Hereby, the knots function as information carriers that can be read by the AI. This method is inspired by Quipu, a knot-based technology to record information related to the organisation of the empire’s municipalities developed by the Inka people of the Andean region. The AI is trained to detect the given knots, decode the questions embedded by the artists and respond with answers from its own text prediction AI model. These questions revolve around creativity, autonomy, labour, behaviours, kinship and visibility. Just like in the topology of mathematical knots, which are used in this prototype, the machine-driven communication with itself is potentially endless. It leads to unexpected results that question our understanding and concepts of the human, the natural and the artificial. 
 
 PROJECT LINK: bit.ly/knot-a-conversation
 
 ## Process Notes
-The project is based on a collaborative process between creative technologist Ambika Joshi, material-textile designer Nayeli Vega Vargas and media artist Thomas Heidtmann. As part of the befantastic CoLab Fellowship, it combines their different professions, methodological approaches and technical skills to explore artistic and technological implications of artificial intelligence.
+The project is based on a collaborative process between creative technologist Ambika Joshi[^2], material-textile designer Nayeli Vega Vargas[^3] and media artist Thomas Heidtmann[^4]. As part of the befantastic CoLab Fellowship[^5], it combines their different professions, methodological approaches and technical skills to explore artistic and technological implications of artificial intelligence.
 
-After the intense 14-day fellowship – which resulted in the roughly outlined project idea – a two-week-long realisation phase followed, during which the initial brainstorming was further extended and a prototype was built. After exploring conceptual directions and the visual language (Fig. 1–4), prototyping of the sculpture and website started.
+After the intense 14-day fellowship – which resulted in the roughly outlined project idea – a two-week-long realisation phase followed, during which the initial brainstorming[^6] was further extended and a prototype was built. After exploring conceptual directions and the visual language (Fig. 1–4), prototyping of the sculpture and website started.
 
 Drawing inspiration from the scientific illustrations of Santiago Ramón y Cajal (1852–1934) and Picasso’s Constellations drawings (1924), a prototype was developed. The knots, which are used for the prototype, were obtained from mathematical algorithms, converted to meshes and integrated into a neuronal structure with the help of the open source 3D software Blender (Fig. 5–6). 
 
@@ -52,7 +52,15 @@ Country of Origin: Peru Culture: Inca.
 **Fig. 09:** Detection app
 Using the image classification model from Teachable Machine the mobile web app is able to recognise the various knots in the sculpture. Each knot represents a question devised by the team and the machine gendered answers based on GPT-3 Machine learning model
 
-## Bibliography, references and tech stack            
+## Bibliography, references and tech stack     
+
+[^1]:https://yokoiki.com/2020/10/18/codes-in-knots-2/
+[^2]:https://computationalmama.xyz
+[^3]:https://yokoiki.com
+[^4]:http://thomasheidtmann.de/
+[^5]:https://befantastic.in/colab/
+[^6]:https://miro.com/app/board/o9J_khNZQwE=/
+
 - [The Nooscope Manifested](https://nooscope.ai/)
 - [Lisa Nakamura – Indigenous Circuits](https://lnakamur.files.wordpress.com/2011/01/indigenous-circuits-nakamura-aq.pdf)
 - [Neural Networks Architecture](https://www.asimovinstitute.org/neural-network-zoo/)                    
