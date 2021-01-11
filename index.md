@@ -79,4 +79,6 @@ Using the image classification model from Teachable Machine the mobile web app i
 - [GPT-3](https://github.com/openai/gpt-3) – Generative Pre-trained Transformer 3 is an autoregressive language model that uses deep learning to produce human-like text. It is the third-generation language prediction model in the GPT-n series created by OpenAI
 
 #### GitHub repository
- https://github.com/knot-a-conversation
+ [https://github.com/knot-a-conversation](https://github.com/knot-a-conversation)
+ 
+ ---
