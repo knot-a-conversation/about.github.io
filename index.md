@@ -54,13 +54,6 @@ Using the image classification model from Teachable Machine the mobile web app i
 
 ## Bibliography, references and tech stack     
 
-[^1]:https://yokoiki.com/2020/10/18/codes-in-knots-2/
-[^2]:https://computationalmama.xyz
-[^3]:https://yokoiki.com
-[^4]:http://thomasheidtmann.de/
-[^5]:https://befantastic.in/colab/
-[^6]:https://miro.com/app/board/o9J_khNZQwE=/
-
 - [The Nooscope Manifested](https://nooscope.ai/)
 - [Lisa Nakamura – Indigenous Circuits](https://lnakamur.files.wordpress.com/2011/01/indigenous-circuits-nakamura-aq.pdf)
 - [Neural Networks Architecture](https://www.asimovinstitute.org/neural-network-zoo/)                    
@@ -82,3 +75,9 @@ Using the image classification model from Teachable Machine the mobile web app i
  [https://github.com/knot-a-conversation](https://github.com/knot-a-conversation)
  
  ---
+[^1]:[https://yokoiki.com/2020/10/18/codes-in-knots-2/](https://yokoiki.com/2020/10/18/codes-in-knots-2/)
+[^2]:[https://computationalmama.xyz](https://computationalmama.xyz)
+[^3]:[https://yokoiki.com](https://yokoiki.com)
+[^4]:[http://thomasheidtmann.de/](http://thomasheidtmann.de/)
+[^5]:[https://befantastic.in/colab/](https://befantastic.in/colab/)
+[^6]:[https://miro.com/app/board/o9J_khNZQwE=/](https://miro.com/app/board/o9J_khNZQwE=/)
