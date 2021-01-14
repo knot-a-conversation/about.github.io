@@ -1,3 +1,10 @@
+---
+title: Colab v1
+layout: posts
+permalink: /projects/colab-v1
+entries_layout: list
+---
+
 # K(not) a Conversation
 ### A Neural Knotwork Prototype
 
