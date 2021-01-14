@@ -1,11 +1,10 @@
 remote_theme:  mmistakes/jekyll-theme-basically-basic
 lang: en-US
-title: Knot A Conversation
+title: K(not) A Conversation
 email: ambika@ajaibghar.com
 description: "Knot a Conversation project"
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: ""  # the base hostname & protocol for your site, e.g. http://example.com
-
 logo: /assets/icons/logo.svg
 
 # Liquid
