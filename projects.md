@@ -4,6 +4,7 @@ layout: collection
 permalink: /projects/
 collection: projects
 entries_layout: grid
+sort_order: reverse
 ---
 
-Sample document listing for the collection `_projects`.
+Project versions will be here
