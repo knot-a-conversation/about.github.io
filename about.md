@@ -9,6 +9,10 @@ author:
 author:
   name: Ambika Joshi
   picture: /assets/ambika-joshi.jpg
+  
+author:
+  name: Nayeli
+  picture: /assets/thomas-heidtmann.jpg
 ---
 
 This project is part of a year long exploration in ... 
