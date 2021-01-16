@@ -10,6 +10,10 @@ logo: /assets/icons/logo.svg
 author:
   name: Thomas Heidtmann
   picture: /assets/thomas-heidtmann.jpg
+  
+author:
+  name: Ambika Joshi
+  picture: /assets/ambika-joshi.jpg
 
 # Liquid
 liquid:
