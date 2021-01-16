@@ -2,7 +2,7 @@
 title: "Peanut Butter Cookies"
 image: 
   path: /assets/images/peanut-butter-cookies-lg.jpg
-  thumbnail: /assets/images/peanut-butter-cookies-400x200.jpg
+  thumbnail: /assets/08_KAC_website.jpg
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
