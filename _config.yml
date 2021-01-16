@@ -7,6 +7,10 @@ baseurl: ""  # the subpath of your site, e.g. /blog
 url: ""  # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/icons/logo.svg
 
+author:
+  name: Thomas Heidtmann
+  picture: /assets/thomas-heidtmann.jpg
+
 # Liquid
 liquid:
   error_mode: strict
