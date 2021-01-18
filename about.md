@@ -2,17 +2,6 @@
 title: "About"
 layout: about
 
-author:
-  name: Thomas Heidtmann
-  picture: /assets/thomas-heidtmann.jpg
-  
-author:
-  name: Ambika Joshi
-  picture: /assets/ambika-joshi.jpg
-  
-author:
-  name: Nayeli
-  picture: /assets/thomas-heidtmann.jpg
 ---
 
 ## Nayeli Vega
