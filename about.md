@@ -17,7 +17,7 @@ More information about her work, please visit [yokoiki.com](https://yokoiki.com)
 
 Thomas Heidtmann is a Berlin-based media artist, studied at the Berlin University of the Arts. He works at the intersection of art, science and technology. Since 2015 he has been a co-founder and board member of Lacuna Lab e.V. As founder of the space art initiative SPARTH (since 2017) and its community SPARTHabitat (since 2018), he investigates and promotes space art activities. His works have been presented internationally and examine forms of exploration, collaboration, and space.
 
-![Thomas](/assets//8D0C96F9-847C-43CC-AC88-E4DC28264CE3.jpeg)
+![Thomas|300x300](/assets//8D0C96F9-847C-43CC-AC88-E4DC28264CE3.jpeg)
 
 ## Ambika Joshi
-![Ambika](/assets/ambika-joshi.jpg)
+![Ambika|300x300](/assets/ambika-joshi.jpg)
