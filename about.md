@@ -10,6 +10,9 @@ Nayeli Vega (born in Mx. City) lives and works in Berlin. She holds a M.A. in Te
 More information about her work, please visit [yokoiki.com](https://yokoiki.com) and [lacunalab.org](https://lacunalab.org/). You can also find her on [Instagram](https://www.instagram.com/yokoikilab/).
 
 ## Thomas Heidtmann
+
+Thomas Heidtmann is a Berlin-based media artist, studied at the Berlin University of the Arts. He works at the intersection of art, science and technology. Since 2015 he has been a co-founder and board member of Lacuna Lab e.V. As founder of the space art initiative SPARTH (since 2017) and its community SPARTHabitat (since 2018), he investigates and promotes space art activities. His works have been presented internationally and examine forms of exploration, collaboration, and space.
+
 ![Thomas](/assets/thomas-heidtmann.jpg)
 
 ## Ambika Joshi
