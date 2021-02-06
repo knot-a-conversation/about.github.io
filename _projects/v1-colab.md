@@ -1,25 +1,40 @@
 ---
-title: Colab v1
-permalink: /projects/colab-v1
+title: Version 1
+permalink: /projects/v1-colab
 image: 
-  path: /assets/06_KAC_3dmodel_WIP.png
-  thumbnail: /assets/06_KAC_3dmodel_WIP_thumbnails.jpg
-  caption: "Work in Progress images in Blender"
-read_time: true
+  path: /assets/v1-colab.jpg
+  thumbnail: /assets/v1-colab-thumbnail.jpg
+  caption: "Version 1 at CoLab"
+read_time: false
+date: 2020-10-30
+driveId: 1_1PjcS-FtXqFEl88CHzJMv4wgD5IX4aj/preview
+
+actions:
+  - label: "Digital Prototype"
+    url: "https://ambikajo.github.io/knot-a-conversation/"
+
 ---
 
-# K(not) a Conversation
-### A Neural Knotwork Prototype
+# CoLab Fellowship
+The idea for K(not) a Conversation is born.
 
-## Project Synopsis
-**K(not) a Conversation** is an installation exploring the concepts of artificial intelligence, creativity and labour. Inspired by ancient indigenous communication systems of Quipu knots, it instigates a communication and reflection process through the use of knots and AI systems. 
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mScIl9BM_HM?start=401" class="align-center" alt="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+[BeFantastic’s CoLab Fellowship](https://befantastic.in/) was offered online in October and November 2020 to 23 international Fellows from Germany, UK and South Asia. The fellowship brought together creators from diverse arts and design disciplines to meet, learn and make Artificial Intelligence & Machine Learning based interactive artworks together.
+
+During the fellowship the idea for K(not) a Converation came to life as a digital prototype.
 
 ## Concept Note
-The installation exists in two ways, physically and virtually. It consists of a sculptural element, using knots and neurons as visual and conceptual references, a website and a web-based detection app to allow interaction with the sculpture. The piece is designed as part of an open process, demonstrating the proof-of-concept with a working prototype.  
+The installation exists in two ways, physically and virtually. It consists of a sculptural element, using knots and neurons as visual and conceptual references, a [website](https://ambikajo.github.io/knot-a-conversation/) and a web-based detection app to allow interaction with the sculpture. The piece is designed as part of an open process, demonstrating the proof-of-concept with a working virtual prototype. 
 
-Rooted in Nayeli Vega Vargas’ artistic research on knots as symbolic systems that can be used to communicate specific information[^1], the prototype investigates concepts of creativity and labour in relation to artificial intelligence. By mixing modern and ancient communication technologies, a reflection process is engaged. Hereby, the knots function as information carriers that can be read by the AI. This method is inspired by Quipu, a knot-based technology to record information related to the organisation of the empire’s municipalities developed by the Inka people of the Andean region. The AI is trained to detect the given knots, decode the questions embedded by the artists and respond with answers from its own text prediction AI model. These questions revolve around creativity, autonomy, labour, behaviours, kinship and visibility. Just like in the topology of mathematical knots, which are used in this prototype, the machine-driven communication with itself is potentially endless. It leads to unexpected results that question our understanding and concepts of the human, the natural and the artificial. 
+{% include googleDrivePlayer.html id=page.driveId %}
+<br />
 
-PROJECT LINK: bit.ly/knot-a-conversation
+Rooted in Nayeli Vega Vargas’ artistic research on knots as symbolic systems that can be used to communicate specific information[^1], the prototype investigates concepts of creativity and labour in relation to artificial intelligence. By mixing modern and ancient communication technologies, a reflection process is engaged. Hereby, the knots function as information carriers that can be read by the AI. This method is inspired by Quipu, a knot-based technology to record information related to the organisation of the empire’s municipalities developed by the Inka people of the Andean region. The AI is trained to detect the given knots, decode the questions embedded by the artists and respond with answers from its own text prediction AI model. These questions revolve around creativity, autonomy, labour, behaviours, kinship and visibility. Just like in the topology of mathematical knots, which are used in this prototype, the machine-driven communication with itself is potentially endless. It leads to unexpected results that question our understanding and concepts of the human, the natural and the artificial.
+
+PROJECT LINK: [bit.ly/knot-a-conversation](https://bit.ly/knot-a-conversation)
 
 ## Process Notes
 The project is based on a collaborative process between creative technologist Ambika Joshi[^2], material-textile designer Nayeli Vega Vargas[^3] and media artist Thomas Heidtmann[^4]. As part of the befantastic CoLab Fellowship[^5], it combines their different professions, methodological approaches and technical skills to explore artistic and technological implications of artificial intelligence.
@@ -82,12 +97,17 @@ Using the image classification model from Teachable Machine the mobile web app i
 - [GPT-3](https://github.com/openai/gpt-3) – Generative Pre-trained Transformer 3 is an autoregressive language model that uses deep learning to produce human-like text. It is the third-generation language prediction model in the GPT-n series created by OpenAI
 
 #### GitHub repository
- [https://github.com/knot-a-conversation](https://github.com/knot-a-conversation)
- 
- ---
+ [https://github.com/knot-a-conversation/prototype-I_colab](https://github.com/knot-a-conversation/prototype-I_colab)
+
+
+## Partner
+
+![](/assets/logos/dialog-insta-creating-techart.png) 
+
 [^1]:[https://yokoiki.com/2020/10/18/codes-in-knots-2/](https://yokoiki.com/2020/10/18/codes-in-knots-2/)
 [^2]:[https://computationalmama.xyz](https://computationalmama.xyz)
 [^3]:[https://yokoiki.com](https://yokoiki.com)
 [^4]:[http://thomasheidtmann.de/](http://thomasheidtmann.de/)
 [^5]:[https://befantastic.in/colab/](https://befantastic.in/colab/)
 [^6]:[https://miro.com/app/board/o9J_khNZQwE=/](https://miro.com/app/board/o9J_khNZQwE=/)
+

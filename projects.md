@@ -4,8 +4,9 @@ layout: collection
 permalink: /projects/
 collection: projects
 entries_layout: list
-show_excerpts: false
-read_time: false
+show_excerpts: true
+sort_by: date
+sort_order: reverse
 ---
 
-Project versions will be here
+A list of realised projects in chronological order.

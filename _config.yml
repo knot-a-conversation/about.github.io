@@ -1,10 +1,10 @@
 remote_theme:  mmistakes/jekyll-theme-basically-basic
 lang: en-US
-title: K(not) A Conversation
-email: ambika@ajaibghar.com
-description: "Knot a Conversation project"
+title: K(not) a Conversation
+email: hello@
+description: "Communication through knots and AI systems"
 baseurl: ""  # the subpath of your site, e.g. /blog
-url: ""  # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://knotavonversation.art"  # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/icons/logo.svg
 
 # author:
@@ -50,3 +50,5 @@ defaults:
     values:
       layout: post
       read_time: true
+
+future: true
