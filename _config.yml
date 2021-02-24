@@ -1,11 +1,11 @@
 remote_theme:  mmistakes/jekyll-theme-basically-basic
 lang: en-US
 title: K(not) a Conversation
-email: hello@
+email: hello@knotaconversation.art
 description: "Communication through knots and AI systems"
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "https://knotavonversation.art"  # the base hostname & protocol for your site, e.g. http://example.com
-logo: /assets/icons/logo.svg
+instagram_username: knotaconversation.ai 
 
 # author:
 #   name: Thomas Heidtmann

@@ -6,8 +6,6 @@ layout: about
 
 K(not) a Conversation is an installation exploring the concepts of artificial intelligence, creativity and labour. Inspired by ancient indigenous communication systems of Quipu knots, it instigates a communication and reflection process through the use of knots and AI systems. 
 
-# Partner
-
 # Team 
 
 ## Nayeli Vega Vargas
@@ -22,7 +20,7 @@ For more information about her work, visit [yokoiki.com](https://yokoiki.com). Y
 
 ## Thomas Heidtmann
 
-Thomas Heidtmann is a Berlin-based media artist, studied at the Berlin University of the Arts. He works at the intersection of art, science and technology. Since 2015 he has been a co-founder and board member of [Lacuna Lab e.V.](https://lacunalab.org/) As founder of the space art initiative [SPARTH](https://www.sparth.org/) (since 2017) and its community SPARTHabitat (since 2018), he investigates and promotes space art activities. His works have been presented internationally and examine forms of exploration, collaboration, and space.
+Thomas Heidtmann is a Berlin-based media artist, studied at the Berlin University of the Arts. He works at the intersection of art, science and technology. Since 2015 he has been a co-founder and board member of [Lacuna Lab e.V.](https://lacunalab.org/) As founder of the space art initiative [SPARTH](https://www.sparth.org/) (since 2017) and its community SPARTHabitat (since 2018), he investigates and promotes space art activities. His works have been presented internationally and examine forms of exploration, collaboration, and communication.
 
 More information about his work under [thomasheidtmann.de](htpp://thomasheidtmann.de) or on [Instagram](https://www.instagram.com/thomasheidtmann/).
 

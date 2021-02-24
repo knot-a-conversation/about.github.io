@@ -43,7 +43,7 @@ After the intense 14-day fellowship – which resulted in the roughly outlined p
 
 Drawing inspiration from the scientific illustrations of Santiago Ramón y Cajal (1852–1934) and Picasso’s Constellations drawings (1924), a prototype was developed. The knots, which are used for the prototype, were obtained from mathematical algorithms, converted to meshes and integrated into a neuronal structure with the help of the open source 3D software Blender (Fig. 5–6). 
 
-A website was designed to allow access to the project during COVID-19-times. It contains a virtual representation of the sculpture that eventually will be physically installed in the future. The model was then imported in A-Frame, a HTML framework which allows easy access and development of 3D environments for web browsers. Once the website was successfully tested, it got refined and hosted on GitHub pages (Fig. 8). 
+A website was designed to allow access to the project during COVID-19-times. It contains a virtual representation of the sculpture that eventually will be physically installed in the future. The model was then imported in A-Frame, a HTML framework which allows easy access and development of 3D environments for web browsers. Once the website was successfully tested, it got refined and hosted on GitHub pages (Fig. 7–8). 
 
 The web-based mobile detection system was a more complex part of the project. It had to be thoroughly tested and developed. To detect the knots, we used the Teachable Machine image classification developed by Google. Through this machine learning model each knot was classified and a question was assigned to it. GPT-3 by OpenAI was used to generate responses which the user can access through the mobile detection app. The entire app was built on p5.js, a popular JavaScript library. (Fig. 9)
 
@@ -102,7 +102,7 @@ Using the image classification model from Teachable Machine the mobile web app i
 
 ## Partner
 
-![](/assets/logos/dialog-insta-creating-techart.png) 
+![](/assets/logos/v1-logos.png) 
 
 [^1]:[https://yokoiki.com/2020/10/18/codes-in-knots-2/](https://yokoiki.com/2020/10/18/codes-in-knots-2/)
 [^2]:[https://computationalmama.xyz](https://computationalmama.xyz)
