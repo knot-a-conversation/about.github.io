@@ -4,7 +4,9 @@ layout: about
 
 ---
 
-K(not) a Conversation is an installation exploring the concepts of artificial intelligence, creativity and labour. Inspired by ancient indigenous communication systems of Quipu knots, it instigates a communication and reflection process through the use of knots and AI systems. 
+K(not) a Conversation is an installation exploring the concepts of artificial intelligence, creativity and labour. Inspired by ancient indigenous communication systems of Quipu knots, it instigates a communication and reflection process through the use of knots and AI systems.
+
+Follow on {% include icon-instagram.html username=site.instagram_username label='Instagram' %}
 
 # Team 
 
