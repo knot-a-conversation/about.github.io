@@ -68,6 +68,8 @@ Open source software such as Blender, was used for the digital manipulation and 
 - [Teachable machine](https://teachablemachine.withgoogle.com/) – a GUI based machine learning tool for image classification
 - [p5.js](https://p5js.org/) is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else
 - [GPT-3](https://github.com/openai/gpt-3) – Generative Pre-trained Transformer 3 is an autoregressive language model that uses deep learning to produce human-like text. It is the third-generation language prediction model in the GPT-n series created by OpenAI
+- [Expressjs](https://expressjs.com/) - A web framework to manage server side requests
+- [Firebase](https://firebase.google.com/docs/database) - A cloud hosted "Database-as-a-Service"
 
 #### GitHub repository
  [https://github.com/knot-a-conversation](https://github.com/knot-a-conversation)
