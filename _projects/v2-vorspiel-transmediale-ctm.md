@@ -8,6 +8,7 @@ image:
 read_time: false
 date: 2021-02-25
 vimeoId: 516739403
+driveId: 1eaz-6p8M53AWMdMxgGI_hsKJnZ3PGDrO/preview
 
 actions:
   - label: "Digital Prototype"
@@ -39,7 +40,10 @@ Starting with the simpler machine learning models of classifying images, the sma
 
 PROTOTYPE LINK: [https://knotaconversation.art/sculpture/](https://knotaconversation.art/sculpture/)
 
-*To use the digital prototype a desktop pc or laptop and a separate smartphone are required.*
+*To use the digital prototype a desktop pc or laptop and a separate smartphone are required. Real-time interaction with the digital sculpture and GPT-3 is possible from 25 February 2021, 7 pm CET to 28 February 2021, 11.59 pm CET.*
+
+#### Instruction Video
+{% include googleDrivePlayer.html id=page.driveId %}
 
 ### Datasets
  
