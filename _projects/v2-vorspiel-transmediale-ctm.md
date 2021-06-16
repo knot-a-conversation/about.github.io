@@ -51,7 +51,7 @@ At the base of every AI and Machine Learning system are datasets. A mild mirrori
 
 The project maintains a database of all the machine-generated responses. This database gives an insight into the patterns and “thoughts” of the machine.
 
-DATABASE LINK: [http://appv2.knotaconversation.art/answers.html](http://appv2.knotaconversation.art/answers.html)
+DATABASE LINK: [https://knotaconversation.art/answers/](https://knotaconversation.art/answers/)
 
 ### Physical prototype process
 
