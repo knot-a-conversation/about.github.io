@@ -4,9 +4,9 @@ layout: about
 
 ---
 
-K(not) a Conversation is an installation exploring the concepts of artificial intelligence, creativity and labour. Inspired by ancient indigenous communication systems of Quipu knots, it instigates a communication and reflection process through the use of knots and AI systems.
+K(not) a Conversation is an artistic research project exploring the concepts of artificial intelligence, creativity and labour. Through interactive installations inspired by ancient indigenous communication systems of Quipu knots, it instigates a communication and reflection process through the use of knots and AI systems. Started in 2020 as part of the BeFantastic CoLab Fellowship during the COVID-19 pandemic, it has been displayed at Vorspiel / transmediale & CTM and India Art Fair. 
 
-Follow on {% include icon-instagram.html username=site.instagram_username label='Instagram' %}
+Please, [get in touch](mailto::hello@knotaconversation.art) for collaborations and follow on {% include icon-instagram.html username=site.instagram_username label='Instagram' %}
 
 # Team 
 
@@ -16,7 +16,7 @@ Nayeli Vega Vargas is a Berlin-based textile and material designer interested in
 
 For more information about her work, visit [yokoiki.com](https://yokoiki.com). You also find her on [Instagram](https://www.instagram.com/yokoikilab/).
 
-![Nayeli](/assets/nayeli-vega-vargas.jpg)
+![Nayeli](/assets/images/nayeli-vega-vargas.jpg)
 
 <br />
 
@@ -26,7 +26,7 @@ Thomas Heidtmann is a Berlin-based media artist, studied at the Berlin Universit
 
 More information about his work under [thomasheidtmann.de](htpp://thomasheidtmann.de) or on [Instagram](https://www.instagram.com/thomasheidtmann/).
 
-![Thomas](/assets/thomas-heidtmann.jpg)
+![Thomas](/assets/images/thomas-heidtmann.jpg)
 
 <br />
 
@@ -36,4 +36,4 @@ Ambika Joshi has been learning, teaching and experimenting with creative computa
 
 Visit her website [computationalmama.xyz](http://computationalmama.xyz) or follow her on [Instagram](https://www.instagram.com/computational_mama/).
 
-![Ambika](/assets/ambika-joshi.jpg)
+![Ambika](/assets/images/ambika-joshi.jpg)

@@ -2,8 +2,8 @@
 title: Version 1
 permalink: /projects/v1-colab
 image: 
-  path: /assets/v1-colab.jpg
-  thumbnail: /assets/v1-colab-thumbnail.jpg
+  path: /assets/hero/v1-colab-hero.jpg
+  thumbnail: /assets/thumbnails/v1-colab-thumbnail.jpg
   caption: "Version 1 at CoLab"
 read_time: false
 date: 2020-10-30
@@ -48,32 +48,32 @@ A website was designed to allow access to the project during COVID-19-times. It 
 The web-based mobile detection system was a more complex part of the project. It had to be thoroughly tested and developed. To detect the knots, we used the Teachable Machine image classification developed by Google. Through this machine learning model each knot was classified and a question was assigned to it. GPT-3 by OpenAI was used to generate responses which the user can access through the mobile detection app. The entire app was built on p5.js, a popular JavaScript library. (Fig. 9)
 
 ## Supporting Images
-![](/assets/01_KAC_concept_quipur.jpg)
+![](/assets/images/01_KAC_concept_quipur.jpg)
 **Fig. 01: Left:** taken from the Ethnological Museum of Berlin. **Right:** Facsimile of a drawing by Felipe Guaman Poma from his 'El Primer Nueva Coronica y Buen Gobierno'. It is the only extant 'Codex' from Peru that shows drawings of 16thC Peruvian life.- The 'Keeper of the Quipu' or 'Quipucamayoc'. 
 Country of Origin: Peru Culture: Inca. 
 
-![](/assets/02_KAC_concept_knot_structure.jpg)
+![](/assets/images/02_KAC_concept_knot_structure.jpg)
 **Fig. 02:** Moodboard inspiration. Left top: drawing from Santiago Ramón y Cajal (Cajal's Neuronal Forest: Science and Art). **Left bottom:** Khipu with Summary Cords, Inka, 1450–1534 CE, Dumbarton Oaks collection. **Center top:** Time Ball (mnemonic device) Canada, created before 1920, National Museum of the American Indian, Smithsonian Institution. **Center middle:** The hands of Rusten Hogness, Donna’s partner, learning Ma’ii Ats’áá’ Yílwoí, in English “Coyotes Running Opposite Ways.” Coyote is the trickster who constantly scatters the dust of disorder into the orderly star patterns made by the Fire God, setting up the non-innocent world-making performances of disorder and order that shape the lives of terran critters (Haraway, 2016). **Center bottom:** The Constellations drawings are a series of sketches by Pablo Picasso drawn on sixteen pages of a notebook in 1924. **Right top:** drawing from Santiago Ramón y Cajal (Cajal's Neuronal Forest: Science and Art). **Right bottom:** The Neural Network Zoo, The Asimov Institute.
 
-![](/assets/03_KAC_concept_drawing.jpg)
+![](/assets/images/03_KAC_concept_drawing.jpg)
 **Fig. 03:** Concept drawing, first ideas for the creation of the prototype.
 
-![](/assets/04_KAC_concept_miroboard.JPG)
+![](/assets/images/04_KAC_concept_miroboard.JPG)
 **Fig. 04:** Collection of the group’s ideas, questions, visual references and inspirations on Miro whiteboard. 
 
-![](/assets/05_KAC_discussing_knots.jpeg)
+![](/assets/images/05_KAC_discussing_knots.jpeg)
 **Fig. 05:** An initial meeting of the team discussing and understanding the possibilities of using 3D knots.
 
-![](/assets/06_KAC_3dmodel_WIP.png)
+![](/assets/images/06_KAC_3dmodel_WIP.png)
 **Fig. 06:** Working on 3d model – with inspiration from human neurons, neural network schematics and mathematical knots, a sculpture was developed in the 3D software Blender. 
 
-![](/assets/07_KAC_machine-training.jpg)
+![](/assets/images/07_KAC_machine-training.jpg)
 **Fig. 07:** Machine training – using Google’s Teachable Machine to classify the various knots in the sculpture. These will be used for the detection model on the mobile app.
 
-![](/assets/08_KAC_website.jpg)
+![](/assets/images/08_KAC_website.jpg)
 **Fig. 08:** Website development – hosting the virtual sculpture as a web app. This uses 3D frameworks “A-Frame” and “threejs”. 
 
-![](/assets/09_KAC_detection_app.jpg)
+![](/assets/images/09_KAC_detection_app.jpg)
 **Fig. 09:** Detection app
 Using the image classification model from Teachable Machine the mobile web app is able to recognise the various knots in the sculpture. Each knot represents a question devised by the team and the machine gendered answers based on GPT-3 Machine learning model
 
