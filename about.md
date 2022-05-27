@@ -4,9 +4,9 @@ layout: about
 
 ---
 
-K(not) a Conversation is an artistic research project exploring the concepts of artificial intelligence, creativity and labour. Through interactive installations inspired by ancient indigenous communication systems of Quipu knots, it instigates a communication and reflection process through the use of knots and AI systems. Started in 2020 as part of the BeFantastic CoLab Fellowship during the COVID-19 pandemic, it has been displayed at Vorspiel / transmediale & CTM and India Art Fair. 
+K(not) a Conversation is an artistic research project exploring the concepts of artificial intelligence, creativity and labour. Through interactive installations inspired by ancient indigenous communication systems of Quipu knots, it instigates a communication and reflection process through the use of knots and AI systems. Quipus were devices composed from cotton of camelid fibre strings that recorded data through the organisation of knotted cords to inform a spectrum of social activities in Andean regions. Formally taking inspiration from this ancient apparatus, K(not) a Conversation instigates dialogue with an AI system to examine a possible evolution of concepts such as intelligence, creativity and labour. Started in 2020 as part of the BeFantastic CoLab Fellowship during the COVID-19 pandemic, the project has been displayed at Vorspiel / transmediale & CTM and India Art Fair.
 
-Please, [get in touch](mailto::hello@knotaconversation.art) for collaborations and follow on {% include icon-instagram.html username=site.instagram_username label='Instagram' %}
+Please, [get in touch](mailto::hello@knotaconversation.art) for collaborations.
 
 # Team 
 
